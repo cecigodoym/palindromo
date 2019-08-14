@@ -1,0 +1,24 @@
+{
+  "name": "palindromo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "palindromo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cecigodoym/palindromo.git"
+  },
+  "author": "ceciliagodoy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cecigodoym/palindromo/issues"
+  },
+  "homepage": "https://github.com/cecigodoym/palindromo#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0"
+  }
+}
